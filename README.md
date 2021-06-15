@@ -1,4 +1,4 @@
-# This is [link](https://kishan2029.github.io/Monster-Rolodex/) for project.
+# This is [link](https://kishan2029.github.io/Monster-Rolodex/) for Monster-Rolodex Project.
 
 # Getting Started with Create React App
 
